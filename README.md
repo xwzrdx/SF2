@@ -12,12 +12,12 @@ Server Emulator for Soldier Front 2 (Steam Build)
 * Training
 * FOV & Viewmodel FOV
 * Weapon Sway
+* Sprint Reload
 
 
 # To Do
 # SF2 Editor Tool (Edit weapon stats, add/remove entries in shop, add new weapons/skins variants, Map Editor)
 * Show playing on Steam, Discord
-* Sprint Reload
 * Third Person
 
 
