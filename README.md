@@ -7,13 +7,15 @@
 * Starter Rewards (M92FS, M67, starter pack, 30.000 SP)
 * AP, SP & TP Currencies
 * Xanthid Shop Items
+* Training
 
 
-To Do
+# To Do
 # SF2 Editor Tool (Edit weapon stats, add/remove entries in shop, add new weapons/skins variants, Map Editor)
 * Show playing on Steam, Discord
 * FOV / Viewmodel FOV
 * Weapon Sway
+* Sprint Reload
 * Third Person
 
 
@@ -25,3 +27,4 @@ To Do
 <img width="873" height="671" alt="image" src="https://github.com/user-attachments/assets/9b95e268-50f8-40aa-949c-44978b508f79" />
 <img width="1272" height="943" alt="image" src="https://github.com/user-attachments/assets/c1b6d70a-39b4-4a4b-a087-49e6ddf429d1" />
 <img width="622" height="70" alt="image" src="https://github.com/user-attachments/assets/7c9ee327-24b2-4de9-9af7-f68d391818d0" />
+<img width="1917" height="1097" alt="image" src="https://github.com/user-attachments/assets/695c4c0d-6050-4f7b-98e6-1ca13d2325ea" />
