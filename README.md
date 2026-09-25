@@ -1,5 +1,7 @@
 # SF2
 
+Server Emulator for Soldier Front 2 (Steam Build)
+
 
 # Done
 * Nickname Creation if new player (Including already exists check)
@@ -8,13 +10,13 @@
 * AP, SP & TP Currencies
 * Xanthid Shop Items
 * Training
+* FOV & Viewmodel FOV
+* Weapon Sway
 
 
 # To Do
 # SF2 Editor Tool (Edit weapon stats, add/remove entries in shop, add new weapons/skins variants, Map Editor)
 * Show playing on Steam, Discord
-* FOV / Viewmodel FOV
-* Weapon Sway
 * Sprint Reload
 * Third Person
 
@@ -28,3 +30,5 @@
 <img width="1272" height="943" alt="image" src="https://github.com/user-attachments/assets/c1b6d70a-39b4-4a4b-a087-49e6ddf429d1" />
 <img width="622" height="70" alt="image" src="https://github.com/user-attachments/assets/7c9ee327-24b2-4de9-9af7-f68d391818d0" />
 <img width="1917" height="1097" alt="image" src="https://github.com/user-attachments/assets/695c4c0d-6050-4f7b-98e6-1ca13d2325ea" />
+<img width="1915" height="1067" alt="image" src="https://github.com/user-attachments/assets/db616573-5272-4fef-9e8e-f56d24d3cecb" />
+
