@@ -11,6 +11,7 @@ Discord: ``wzrd0001``
 * Starter Rewards (M92FS, M67, starter pack, 30.000 SP)
 * AP, SP & TP Currencies
 * Xanthid Shop Items
+* Capsule Shop Items
 * Training
 * VIP Levels (Including the free VIP weapons received from Levels 1-5)
 * Player Emblems
@@ -37,6 +38,7 @@ Discord: ``wzrd0001``
 * Whisper Chat
 * Friends List
 * Friend Requests
+* Backport content from SKILL SF2 into SF2 or target SKILL instead of SF2
 
 # SF2 Editor Tool (Edit weapon stats, add/remove entries in shop, add new weapons/skins variants, Map Editor)
 * Show playing on Steam, Discord
