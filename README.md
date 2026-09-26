@@ -18,6 +18,9 @@ Discord: ``wzrd0001``
 * Equip Items
 * Buy Shop Items
 * Third Person
+* Ported all Characters from SKILL SF2 to SF2 (43 Female, 33 Male)
+* Ported all Weapons & Weapon Skins from SKILL SF2 to SF2 (56 Weapons, 700+ Weapon Skins)
+* Shop Editor (Remove/Add entries, change ItemIDs, prices, names, descriptions)
 
 
 # Gameplay Changes
@@ -28,6 +31,7 @@ Discord: ``wzrd0001``
 
 
 # To Do
+* Throw/Drop primary weapon
 * Gifting
 * Enter Channel
 * Room List
@@ -38,7 +42,7 @@ Discord: ``wzrd0001``
 * Whisper Chat
 * Friends List
 * Friend Requests
-* Backport content from SKILL SF2 into SF2 or target SKILL instead of SF2
+* Port maps from SKILL SF2
 
 # SF2 Editor Tool (Edit weapon stats, add/remove entries in shop, add new weapons/skins variants, Map Editor)
 * Show playing on Steam, Discord
