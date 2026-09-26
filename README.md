@@ -16,6 +16,7 @@ Discord: ``wzrd0001``
 * Player Emblems
 * Equip Items
 * Buy Shop Items
+* Third Person
 
 
 # Gameplay Changes
@@ -39,7 +40,7 @@ Discord: ``wzrd0001``
 
 # SF2 Editor Tool (Edit weapon stats, add/remove entries in shop, add new weapons/skins variants, Map Editor)
 * Show playing on Steam, Discord
-* Third Person
+
 
 
 
@@ -53,4 +54,5 @@ Discord: ``wzrd0001``
 <img width="1917" height="1097" alt="image" src="https://github.com/user-attachments/assets/695c4c0d-6050-4f7b-98e6-1ca13d2325ea" />
 <img width="1915" height="1067" alt="image" src="https://github.com/user-attachments/assets/db616573-5272-4fef-9e8e-f56d24d3cecb" />
 <img width="748" height="402" alt="image" src="https://github.com/user-attachments/assets/781956eb-f0f2-48b6-94c4-f7218fa929a3" />
+<img width="1903" height="1068" alt="image" src="https://github.com/user-attachments/assets/cef99a80-fe45-453b-ab74-82b4103dae87" />
 
