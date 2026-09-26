@@ -11,6 +11,7 @@ Server Emulator for Soldier Front 2 (Steam Build)
 * Xanthid Shop Items
 * Training
 * FOV & Viewmodel FOV
+* ADS/Zoom FOV
 * Weapon Sway
 * Sprint Reload
 
