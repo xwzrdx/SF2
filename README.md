@@ -12,6 +12,11 @@ Discord: ``wzrd0001``
 * AP, SP & TP Currencies
 * Xanthid Shop Items
 * Training
+* VIP Levels (Including the free VIP weapons received from Levels 1-5)
+* Player Emblems
+
+
+# Gameplay Changes
 * FOV & Viewmodel FOV
 * ADS/Zoom FOV
 * Weapon Sway
@@ -34,4 +39,5 @@ Discord: ``wzrd0001``
 <img width="622" height="70" alt="image" src="https://github.com/user-attachments/assets/7c9ee327-24b2-4de9-9af7-f68d391818d0" />
 <img width="1917" height="1097" alt="image" src="https://github.com/user-attachments/assets/695c4c0d-6050-4f7b-98e6-1ca13d2325ea" />
 <img width="1915" height="1067" alt="image" src="https://github.com/user-attachments/assets/db616573-5272-4fef-9e8e-f56d24d3cecb" />
+<img width="748" height="402" alt="image" src="https://github.com/user-attachments/assets/781956eb-f0f2-48b6-94c4-f7218fa929a3" />
 
