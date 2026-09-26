@@ -20,6 +20,7 @@ Discord: ``wzrd0001``
 * Third Person
 * Ported all Characters from SKILL SF2 to SF2 (43 Female, 33 Male)
 * Ported all Weapons & Weapon Skins from SKILL SF2 to SF2 (56 Weapons, 700+ Weapon Skins)
+* Ported 22 maps from SKILL SF2 to SF2
 * Shop Editor (Remove/Add entries, change ItemIDs, prices, names, descriptions)
 
 
