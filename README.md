@@ -14,6 +14,8 @@ Discord: ``wzrd0001``
 * Training
 * VIP Levels (Including the free VIP weapons received from Levels 1-5)
 * Player Emblems
+* Equip Items
+* Buy Shop Items
 
 
 # Gameplay Changes
@@ -24,6 +26,17 @@ Discord: ``wzrd0001``
 
 
 # To Do
+* Gifting
+* Enter Channel
+* Room List
+* Create Room
+* Enter Room
+* Room Chat
+* Lobby Chat
+* Whisper Chat
+* Friends List
+* Friend Requests
+
 # SF2 Editor Tool (Edit weapon stats, add/remove entries in shop, add new weapons/skins variants, Map Editor)
 * Show playing on Steam, Discord
 * Third Person
