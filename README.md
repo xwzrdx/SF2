@@ -2,6 +2,8 @@
 
 Server Emulator for Soldier Front 2 (Steam Build)
 
+Discord: ``wzrd0001``
+
 
 # Done
 * Nickname Creation if new player (Including already exists check)
