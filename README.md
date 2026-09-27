@@ -34,6 +34,7 @@ Discord: ``wzrd0001``
 * Weapon Sway
 * Sprint Reload
 * True FPS (Legs & Feet visible)
+* Character shadow casting in First Person view
 
 
 # To Do
