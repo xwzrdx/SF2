@@ -22,6 +22,10 @@ Discord: ``wzrd0001``
 * Ported all Weapons & Weapon Skins from SKILL SF2 to SF2 (56 Weapons, 700+ Weapon Skins)
 * Ported 22 maps from SKILL SF2 to SF2
 * Shop Editor (Remove/Add entries, change ItemIDs, prices, names, descriptions)
+* Enter Channel
+* Room List
+* Create Room
+* Enter Room
 
 
 # Gameplay Changes
@@ -34,10 +38,6 @@ Discord: ``wzrd0001``
 # To Do
 * Throw/Drop primary weapon
 * Gifting
-* Enter Channel
-* Room List
-* Create Room
-* Enter Room
 * Room Chat
 * Lobby Chat
 * Whisper Chat
@@ -64,4 +64,7 @@ Discord: ``wzrd0001``
 <img width="1903" height="1068" alt="image" src="https://github.com/user-attachments/assets/cef99a80-fe45-453b-ab74-82b4103dae87" />
 <img width="1233" height="897" alt="image" src="https://github.com/user-attachments/assets/fd1534a9-229c-43f4-8a58-9840076c2173" />
 <img width="1277" height="952" alt="image" src="https://github.com/user-attachments/assets/82c50504-8813-478a-87ee-46642f2f2e32" />
+<img width="1241" height="542" alt="image" src="https://github.com/user-attachments/assets/ace46c62-f0de-4cd6-83a6-ce5a8b44c986" />
+<img width="1380" height="627" alt="image" src="https://github.com/user-attachments/assets/d40b3682-bc50-4a84-930f-348f4e02a825" />
+<img width="1905" height="760" alt="image" src="https://github.com/user-attachments/assets/7a7f97a4-8062-4ad6-a329-445ec7313492" />
 
