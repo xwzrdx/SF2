@@ -33,6 +33,7 @@ Discord: ``wzrd0001``
 * ADS/Zoom FOV
 * Weapon Sway
 * Sprint Reload
+* True FPS (Legs & Feet visible)
 
 
 # To Do
@@ -67,4 +68,5 @@ Discord: ``wzrd0001``
 <img width="1241" height="542" alt="image" src="https://github.com/user-attachments/assets/ace46c62-f0de-4cd6-83a6-ce5a8b44c986" />
 <img width="1380" height="627" alt="image" src="https://github.com/user-attachments/assets/d40b3682-bc50-4a84-930f-348f4e02a825" />
 <img width="1905" height="760" alt="image" src="https://github.com/user-attachments/assets/7a7f97a4-8062-4ad6-a329-445ec7313492" />
+<img width="992" height="738" alt="image" src="https://github.com/user-attachments/assets/a9728299-41d3-4d97-af3e-fedfe5921ae8" />
 
