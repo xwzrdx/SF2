@@ -36,7 +36,7 @@ Discord: ``wzrd0001``
 * Sprint Sniper Rechamber
 * Auto Sprint option
 * True FPS (Legs & Feet visible)
-* Character shadow casting in First Person view
+
 
 
 # To Do
