@@ -33,6 +33,8 @@ Discord: ``wzrd0001``
 * ADS/Zoom FOV
 * Weapon Sway
 * Sprint Reload
+* Sprint Sniper Rechamber
+* Auto Sprint option
 * True FPS (Legs & Feet visible)
 * Character shadow casting in First Person view
 
