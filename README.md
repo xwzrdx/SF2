@@ -36,18 +36,18 @@ Discord: ``wzrd0001``
 * Sprint Sniper Rechamber
 * Auto Sprint option
 * True FPS (Legs & Feet visible)
+* Throw/Drop primary weapon
 
 
 
 # To Do
-* Throw/Drop primary weapon
 * Gifting
 * Room Chat
 * Lobby Chat
 * Whisper Chat
 * Friends List
 * Friend Requests
-* Port maps from SKILL SF2
+
 
 # SF2 Editor Tool (Edit weapon stats, add/remove entries in shop, add new weapons/skins variants, Map Editor)
 * Show playing on Steam, Discord
