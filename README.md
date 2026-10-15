@@ -29,6 +29,7 @@ Discord: ``wzrd0001``
 
 
 # Gameplay Changes
+* Dynamic Viewmodel Adaptation (Corner Slicing & Weapon Pushback)
 * FOV & Viewmodel FOV
 * ADS/Zoom FOV
 * Weapon Sway
